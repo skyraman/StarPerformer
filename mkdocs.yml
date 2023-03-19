@@ -1,1 +1,10 @@
-site_name: My Docs
+site_name: Performance Achievement - Chand Raman
+nav:
+  - Key Achievements: achievements.md
+  - Skills Development: skills.md
+theme:
+  name: 'material'
+  palette:
+    primary: 'green'
+    accent: 'blue'
+
