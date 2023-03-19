@@ -1,5 +1,6 @@
-site_name: Performance Achievement
+site_name: Performance Achievement - Chand
 nav:
+  - Home: index.md
   - Key Achievements: achievements.md
   - Skills Development: skills.md
 theme:
@@ -7,5 +8,6 @@ theme:
   palette:
     primary: 'green'
     accent: 'blue'
+
 
 
